@@ -1,0 +1,28 @@
+{
+  "name": "japanese-utils",
+  "version": "1.0.0",
+  "description": "Utility functions for converting between full-width and half-width ASCII characters, katakana, and romaji.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "japanese",
+    "utilities",
+    "katakana",
+    "romaji",
+    "ascii"
+  ],
+  "author": "ifthikar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ifthikar-ali/japanese-utils.git"
+  },
+  "dependencies": {},
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
